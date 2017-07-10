@@ -327,7 +327,7 @@
             "properties": {
                 "title": {
                     "type": "string",
-                    "default": null,
+                    "default": "",
                     "description": "Specifies the table title to apply."
                 },
                 "description": {
